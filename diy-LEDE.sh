@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# File name: diy-part1.sh
+# File name: diy-LEDE.sh
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
 # Copyright (c) 2019-2024 P3TERX <https://p3terx.com>
